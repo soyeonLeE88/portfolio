@@ -385,7 +385,7 @@ div#preloader {
   position: fixed;
   top: 0;
   width: 100%;
-  z-index: 999999;
+  z-index: 99;
 }
 
 .stick .navbar-header a.navbar-brand {
