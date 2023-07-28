@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    cursor: url(../../images/cursor/cursor_img_normal.svg) 3 3, auto;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a{
+    display: block;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+
+
+body {
+    min-width: 1400px;
+}
+
+.overflow{
+    width: 1400px;
+    margin: 0px auto;
+}
